@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My New Travel Site</title>
+</head>
+<body>
+	<h1>Welcome to My Travel Site</h1>
+
+	<p>A site to see all my favorite spots to go!</p>
+
+	<h2>See where I've been!</h2>
+	<ul>
+		<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Estelada_blava.svg/675px-Estelada_blava.svg.png" width="75" height="50"><a href="http://www.barcelonaturisme.com/wv3/en/" target="_blank">Barcelona</a></li>
+
+		<li><img src="https://i.pinimg.com/736x/c7/eb/07/c7eb078233bc1b0a9a7d79a25aef5750--prayers-for-france-prayers-for-paris.jpg" width="75" height="50"><a href="https://en.parisinfo.com/" target="_blank">Paris</a></li>
+
+		<li><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Flag_of_Copenhagen.png/revision/latest?cb=20160910155335" width="75" height="50"><a href="www.visitcopenhagen.com/copenhagen-tourist" target="_blank">Copenhagen</a></li>
+		<li><img src="http://www.crwflags.com/fotw/images/f/fr-06-ni.gif" width="75" height="50"><a href="en.nicetourisme.com/" >Nice</a></li>
+
+	</ul>
+
+	<table>
+		<thead>
+			<tr>
+				<th>Destination</th>
+				<th>Capital</th>
+				<th>Official Language</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Barcelona, Spain</td>
+				<td>Madrid</td>
+				<td>Spanish</td>
+			</tr>
+			<tr>
+				<td>Paris, France</td>
+				<td>Paris</td>
+				<td>French</td>
+			</tr>
+			<tr>
+				<td>Copenhagen, Denmark</td>
+				<td>Copenhagen</td>
+				<td>Danish</td>
+			</tr>
+			<tr>
+				<td>Nice, France</td>
+				<td>Paris</td>
+				<td>French</td>
+			</tr>
+		</tbody>
+	</table>
+
+<div style="color: blue;">
+	<p>
+		Lorem ipsum dolor sit amet, <span style="color:red; font-size: 50px">consectetur</span> adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+
+</div>
+
+
+
+
+
+</body>
+</html>
